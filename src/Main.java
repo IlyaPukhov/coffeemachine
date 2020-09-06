@@ -33,7 +33,7 @@ public class Main {
             }
         }
         if (!canBuyAnything) {
-            System.out.println("Недостаточно средств :(\nИзучайте Java и зарабатывайте много! :)");
+            System.out.println("Недостаточно средств :(");
         }
 
         //вывод даты и времени
